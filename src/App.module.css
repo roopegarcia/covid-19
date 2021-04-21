@@ -4,6 +4,7 @@ body {
 
 .container {
   display: flex;
-  align-items: cen;
+  align-items: center;
   justify-content: center;
+  flex-direction: column;
 }
